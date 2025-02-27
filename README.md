@@ -47,7 +47,7 @@ pip install numpy pandas xgboost scikit-learn matplotlib seaborn
 ```
 
 ## 🛠 Usage
-Each project is contained in its respective folder. Navigate to the desired project and execute:
+Run any project by executing the corresponding script:
 
 ```bash
 python project_name.py
